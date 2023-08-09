@@ -6,7 +6,7 @@ This is an official Pytorch implementation of our paper published in IEEE TMI 20
 
 Hierarchical Knowledge Guided Learning for Real-world Retinal Disease Recognition.
 
-[*[Paper](https://ieeexplore.ieee.org/document/10210137)*], [*[Arxiv](https://arxiv.org/abs/2204.03161)*]
+[*[Paper](https://ieeexplore.ieee.org/document/10210137)*], [*[Arxiv](https://arxiv.org/pdf/2111.08913)*]
 
 The codes have been released! We have also provided other widely-used tricks for long-tailed learning. Feel free to use them!
 
