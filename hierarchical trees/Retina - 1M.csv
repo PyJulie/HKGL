@@ -1,0 +1,63 @@
+assigned_label,hierarchy 0,hierarchy 1,hierarchy 2,severity,similar label
+0,mild,normal,normal,0,0
+1,mild,mild-arteriosclerosis,reduced arterial elasticity,1,1
+2,mild,arteriosclerosis,arteriosclerosis,3,2
+3,mild,myopia,myopia,1,3
+4,mild,mild-low-quality,dark,0,4 5 6 
+5,mild,mild-low-quality,bright,0,4 5 6 
+6,mild,mild-low-quality,indistinct/cataract,0,4 5 6 
+7,mild,severe-low-quality,severely dark ,0,7 8 9 
+8,mild,severe-low-quality,severely bright,0,7 8 9 
+9,mild,severe-low-quality,severely indistinct/cataract,0,7 8 9 
+10,mild,peripheral-fundus,edge,0,10
+11,mild,not-fundus,non-fundus,0,11
+12,macula-amd,drusen,small drusen,2,12 15 13 14 
+13,macula-amd,drusen,medium drusen,3,12 15 13 14 
+14,macula-amd,drusen,big drusen,3,12 15 13 14 
+15,macula-amd,drusen-periphery,non-macular drusen,2,12 15 13 14 
+16,macula-amd,cnv,cnv,4,16 17 
+17,macula-amd,ga,ga,4,16 17 
+18,macula,epiretinal-membranes,epiretinal membranes,3,18 19 20 
+21,macula,macular-hole,macular hole,4,21
+22,macula,macular-edm,macular edm,3,22
+23,macula,macular-csc,macular csc,3,23
+24,macula,macular-other,macular other,3,24 25 26 
+27,optic-disc,glaucoma,glaucoma,2,27 28 29 
+30,optic-disc,od-membranes,od membranes,3,37 38 39 40 30 
+31,optic-disc,od-edm,od edm,3,31 32 33 34 35 
+34,optic-disc,od-vasculitis,od vasculitis,3,34 35 31 32 33 
+35,optic-disc,od-anterior-ischemic,od anterior ischemic,3,34 35 31 32 33 
+36,optic-disc,od-atrophy,od atrophy,3,36
+37,optic-disc,od-other,od other,3,37 38 39 40 30 
+41,optic-disc,od-glory,od glory,3,41
+42,optic-disc,od-melanocytoma,od melanocytoma,3,42
+43,hemorrhage-vessels,DR,NPDRI,3,43
+44,hemorrhage-vessels,DR,NPDRII,4,44 45 47 51 52 
+45,hemorrhage-vessels,DR,NPDRIII,4,44 45 47 51 52 
+46,hemorrhage-vessels,DR,PDR,4,46 48 
+47,hemorrhage-vessels,hemorrhage,hemorrhage,3,44 45 47 51 52 
+48,hemorrhage-vessels,VH,VH,4,46 48 
+49,hemorrhage-vessels,CRVO,CRVO,4,49 50 
+50,hemorrhage-vessels,BRVO,BRVO,4,49 50 
+51,hemorrhage-vessels,HypertensiveRetina,HypertensiveRetinaII,4,44 45 47 51 52 
+52,hemorrhage-vessels,HypertensiveRetina,HypertensiveRetinaIII,4,44 45 47 51 52 
+53,whole-fundus,nerve-fiber,nerve fiber,3,53
+54,whole-fundus,pathological-myopia,diffuse atrophy,3,54 55 56 
+55,whole-fundus,pathological-myopia,patchy atrophy,3,54 55 56 
+56,whole-fundus,pathological-myopia,macular atrophy,3,54 55 56 
+57,whole-fundus,vitreous-degeneration,vitreous degeneration,3,57
+58,whole-fundus,laser-point,laser-point,3,58
+61,whole-fundus,detachment,detachment,4,61
+62,whole-fundus,silicone-oil-tamponade,silicone oil tamponade,3,62
+63,whole-fundus,CRAO,CRAO,4,63 64 
+64,whole-fundus,BRAO,BRAO,4,63 64 
+65,whole-fundus,others-treate,others treate,3,65 71 72 73 74 75 76 78 79 
+66,whole-fundus,others-observe,others observe,3,66 59 60 
+67,whole-fundus,Retinitis-pigmentasa,Retinitis pigmentasa,3,67 69 70 68 
+68,whole-fundus-rare,Retinitis-pigmentasa,edge degeneration,3,67 69 70 68 
+72,whole-fundus-rare,Coats,Coats,3,65 71 72 73 74 75 76 78 79 
+73,whole-fundus-rare,coloboma-choroid,coloboma choroid,3,65 71 72 73 74 75 76 78 79 
+74,whole-fundus-rare,choroidal-hemangioma,choroidal hemangioma,3,65 71 72 73 74 75 76 78 79 
+75,whole-fundus-rare,retinal-aneurysm,retinal aneurysm,3,65 71 72 73 74 75 76 78 79 
+76,whole-fundus-rare,choroidal-osteoma,choroidal osteoma,3,65 71 72 73 74 75 76 78 79 
+77,whole-fundus-rare,VKHD,VKHD,3,77
