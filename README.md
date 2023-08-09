@@ -8,14 +8,14 @@ Hierarchical Knowledge Guided Learning for Real-world Retinal Disease Recognitio
 
 [*[Paper](https://ieeexplore.ieee.org/document/10210137)*], [*[Arxiv](https://arxiv.org/abs/2204.03161)*]
 
-The code will be released soon! We have also provided other widely-used tricks for long-tailed learning. Feel free to use them!
+The codes have been released! We have also provided other widely-used tricks for long-tailed learning. Feel free to use them!
 
 
 ## Usage
 
 
 ## Citation
-If you find this repository is helpful for your work, please cite our work:
+If you find this repository helpful for your work, please cite our work:
 
 ```
 @ARTICLE{10210137,
